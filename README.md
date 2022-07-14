@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**madrimovDev/madrimovdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github](https://img.shields.io/github/followers/madrimovdev?label=Followers&logo=github&style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/verve_md?color=blue&label=follow&logo=twitter&style=for-the-badge)
 
-Here are some ideas to get you started:
+<img src="./madrimov.jpg" style="width: 100%; height: 200px; object-fit: cover; object-position: **center**"/>
+<center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![telegram](https://img.shields.io/badge/-@madrimov-blue?style=for-the-badge&logo=telegram)](https://t.me/madrimov) [![instagram](https://img.shields.io/badge/-@xudish.madrimov-black?style=for-the-badge&logo=instagram)](https://instagram.com/xudish.madrimov) [![telegram](https://img.shields.io/badge/-xudish_madrimov-darkblue?style=for-the-badge&logo=facebook)](https://t.me/madrimov)
+
+*I'm Madrimov Xudoshukur. I'm Javascript Developer*
+
+</center>
+
+---
+
+<div align="center">
+
+#### Languages & Technologies
+
+<img src="js.png" width="80px" >
+
+<img src="ts.png" width="80px" >
+<img src="react.png" width="80px" >
+<img src="redux.png" width="80px" >
+
+
+---
+
+Thanks for watching 😊
+</div>
