@@ -1,8 +1,9 @@
-
+  
 ![github](https://img.shields.io/github/followers/madrimovdev?label=Followers&logo=github&style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/verve_md?color=blue&label=follow&logo=twitter&style=for-the-badge)
 
-<img src="./madrimov.jpg" style="width: 100%; height: 200px; object-fit: cover; object-position: **center**"/>
-<center>
+<img src="./madrimov.jpg" style="width: 100%;  object-fit: cover; object-position: **center**"/>
+  
+<div align="center">
 
 ---
 
@@ -10,7 +11,7 @@
 
 *I'm Madrimov Xudoshukur. I'm Javascript Developer*
 
-</center>
+</div>
 
 ---
 
