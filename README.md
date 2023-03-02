@@ -26,6 +26,46 @@
 <img src="redux.png" width="80px" >
 
 
+
+# Hi, I'm Madrimov! 👋
+
+
+## 🚀 About Me
+I'm a front-end developer. I build the UI part of projects like Dashboard, CRM, E-Commerce.
+I like solving difficult problems. Basically, when building projects, I solve logics that allow me to support it later.
+
+
+## 🛠 Skills
+
+1. **Html, CSS, Javascript, Typescript**
+2. CSS preprocessors: **Sass, Less**
+3. CSS frameworks and Utils: **Bootstrap, Bulma, Materializecss Tailwindcss**
+4. Javascript Library: **ReactJS**
+5. State Management: **Redux, Redux-Toolkit, MobX, Zustand, ContextAPI**
+6. UI Library: **Material-ui, Ant Design, Chakra-ui**
+7. Animation Library: **Gsap, Framer-motion**
+
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+
+  
 ---
 
 Thanks for watching 😊
