@@ -22,7 +22,7 @@ I like solving difficult problems. Basically, when building projects, I solve lo
 7. Animation Library: **Gsap, Framer-motion**
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardimovDev&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madrimovDev&show_icons=true)
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
