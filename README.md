@@ -23,7 +23,7 @@ I like solving difficult problems. Basically, when building projects, I solve lo
 
 ---
 ![Madrimov's GitHub stats](https://github-readme-stats.vercel.app/api?username=madrimovDev&show_icons=true)
-<a href="https://wakatime.com/@29e7c974-03a9-4512-8db9-e7a6a57cbbf6"><img src="https://wakatime.com/badge/user/29e7c974-03a9-4512-8db9-e7a6a57cbbf6.svg" alt="Total time coded since Sep 26 2023" /></a>
+[![Bekzod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madrimovDev&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
