@@ -22,8 +22,8 @@ I like solving difficult problems. Basically, when building projects, I solve lo
 7. Animation Library: **Gsap, Framer-motion**
 
 ---
-![Madrimov's GitHub stats](https://github-readme-stats.vercel.app/api?username=madrimovDev&show_icons=true)
-[![Bekzod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madrimovDev&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
+[![Madrimov's GitHub stats](https://github-readme-stats.vercel.app/api?username=madrimovDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Madrimov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madrimovDev&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
