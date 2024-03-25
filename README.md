@@ -23,25 +23,6 @@ I like solving difficult problems. Basically, when building projects, I solve lo
 
 ---
 [![Madrimov's GitHub stats](https://github-readme-stats.vercel.app/api?username=madrimovDev)](https://github.com/anuraghazra/github-readme-stats)
-[![Madrimov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madrimovDev&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
----
+[![Madrimov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madrimovDev&theme=github_dark&layout=compact)](https://wakatime.com/@e3a640d-80af-4b14-9eed-2a6137942cd3)
 
 </div>
