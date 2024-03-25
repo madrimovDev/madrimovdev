@@ -23,6 +23,6 @@ I like solving difficult problems. Basically, when building projects, I solve lo
 
 ---
 [![Madrimov's GitHub stats](https://github-readme-stats.vercel.app/api?username=madrimovDev)](https://github.com/anuraghazra/github-readme-stats)
-[![Madrimov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madrimovDev&theme=github_dark&layout=compact)](https://wakatime.com/@e3a640d-80af-4b14-9eed-2a6137942cd3)
+[![Madrimov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madrimovDev&theme=github_dark&layout=compact)](https://wakatime.com/@29e7c974-03a9-4512-8db9-e7a6a57cbbf6)
 
 </div>
