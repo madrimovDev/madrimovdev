@@ -1,7 +1,3 @@
-  
-![github](https://img.shields.io/github/followers/madrimovdev?label=Followers&logo=github&style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/verve_md?color=blue&label=follow&logo=twitter&style=for-the-badge) [![telegram](https://img.shields.io/badge/-@madrimov-blue?style=for-the-badge&logo=telegram)](https://t.me/madrimov) [![instagram](https://img.shields.io/badge/-@xudish.madrimov-black?style=for-the-badge&logo=instagram)](https://instagram.com/xudish.madrimov) [![telegram](https://img.shields.io/badge/-xudish_madrimov-darkblue?style=for-the-badge&logo=facebook)](https://t.me/madrimov)
-
-  
 <div >
 
 # Hi, I'm Madrimov! 👋
