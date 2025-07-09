@@ -1,82 +1,83 @@
-<div align="justify">
+<div align="center">
 
-# Hi, I'm **Madrimov**! 👋
+# ⌨️ Yo, I’m <strong>Madrimov</strong> — a terminal-born, vinyl-era code wrangler
 
-### 🚀 **Front-End Developer**
+</div>
 
-I specialize in crafting engaging user interfaces and solving complex front-end problems for **Dashboards**, **CRM systems**, and **E-Commerce platforms**. I focus on writing clean, scalable, and maintainable code, ensuring that projects remain robust and easy to support in the long run.
+<div align="center">
 
----
+⚡ Coded my first loop when floppy disks were cool. <br />
+📽️ Still think inline styles are a sin. <br />
+⌛ If it ain’t in the terminal, it ain’t real. 
 
-## 🛠 **Technical Skills**
-
-### 🌐 **Core Technologies**
-- **HTML5 | CSS3 | JavaScript (ES6+) | TypeScript**
-
-### 🎨 **Styling and Frameworks**
-- **CSS Preprocessors**: Sass, Less
-- **CSS Frameworks & Utilities**: Bootstrap, Bulma, Materialize CSS, Tailwind CSS
-
-### ⚛️ **Front-End Development**
-- **JavaScript Library**: React.js
-- **State Management**: Redux, Redux Toolkit, MobX, Zustand, Context API
-- **UI Libraries**: Material-UI, Ant Design, Chakra UI
-- **Animation Libraries**: GSAP, Framer Motion
-
-### 🧰 **Tools & Workflows**
-- **Version Control**: Git & GitHub
-- **Package Managers**: npm, Yarn
-- **Build Tools**: Webpack, Vite, Parcel
-- **Code Quality**: ESLint, Prettier
-- **Deployment Tools**: Netlify, Vercel, GitHub Pages
+</div>
 
 ---
 
-## 📊 **Stats & Activity**
+## 🧠 About Me — `let me = {...}` (written on a CRT monitor)
 
-### 🔥 **GitHub Stats**
-![Madrimov's GitHub stats](https://github-readme-stats.vercel.app/api?username=madrimovDev&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-### 📈 **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madrimovDev&layout=compact&theme=radical&hide_border=true)
-
-### 🏆 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=madrimovDev&theme=radical&no-frame=true&margin-w=15)
-
-### 🚀 **Contribution Graph**
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=madrimovDev&theme=radical&hide_border=true)
-
-### 💹 **Streak Stats**
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=madrimovDev&theme=radical&hide_border=true)
-
-### ⏱️ **Wakatime Coding Stats**
-![Madrimov's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madrimovDev&theme=radical&layout=compact&hide_border=true)
+```ts
+let madrimov = {
+  role: "Front-End Veteran (Certified Ctrl+C/Ctrl+V Specialist)",
+  experienceLevel: "+100 commits of wisdom",
+  tools: ["Coffee", "Terminal", "Rubber Duck"],
+  mindset: "Measure twice, console.log forever",
+  philosophy: "Less framework, more brainwork"
+};
+```
 
 ---
 
-## 🚀 **Interactive Visualizations**
+## 🛠 Tech Stack — *"From the days of dial-up to dark mode"*
 
-### 📌 **GitHub Skyline**
-[![GitHub Skyline](https://skyline.github.com/madrimovDev/2023)](https://skyline.github.com/madrimovDev/2023)
+### 🧬 Core Web Tech
+- HTML5 / CSS3 / JS (ES6+), TypeScript  
 
-### 📊 **Real-Time Code Time**
-[![Code Time](https://wakatime.com/badge/user/madrimovDev.svg)](https://wakatime.com/@madrimovDev)
+### 🎭 Styling (a.k.a. "The Fine Art of Front-End")
+- Sass, Less, Tailwind, Bootstrap, Bulma, Materialize
 
+### ⚛️ Frameworks (and the beasts I've tamed)
+- React.js ⚛  
+- State Management: Redux, MobX, Zustand, Context API, and my own stubbornness
+- UI Libraries: Material UI, Ant Design, Chakra UI
+- Animations: Framer Motion, GSAP (a.k.a. "pixel choreography")
 
-## 🌟 **Let's Connect**
-
-- **LinkedIn**: [madrimov](www.linkedin.com/in/madrimov)
-- **Portfolio**: [madrimov.uz](https://madrimov.uz)
-- **Email**: [madrimov5014@gmail.com](mailto:madrimov5014@gmail.com)
+### 🧰 Workflows (Old-School DevOps, Baby)
+- Git + GitHub (I still commit like it's 1999)
+- npm / Yarn (dependency hell's loyal companions)
+- Vite, Webpack, Parcel (because builds used to take **hours**, kid)
+- ESLint, Prettier (keeping code cleaner than my keyboard)
+- Deployments? Manual FTP uploads? Been there. Now on Vercel & Netlify.
 
 ---
 
-### 🎯 **Professional Goals for 2024**
-- 💡 Master full-stack development.
-- 🔥 Collaborate on high-impact projects with other developers.
+## 🧪 Terminal Experiments & Side Magic
+
+- 🚁 [Skyline (2023)](https://skyline.github.com/madrimovDev/2023) — Back when GitHub still gave out stickers.
+- ⌛ [Wakatime](https://wakatime.com/@madrimovDev) — Because time is a flat config file.
+
+> P.S. I count keystrokes, not calories.
 
 ---
 
-> **"Building intuitive and scalable front-end solutions is my passion. Let's bring ideas to life!"**
+## 🚀 Where to find me on the interwebz
+
+- 👨‍💼 [LinkedIn](https://linkedin.com/in/madrimov)  
+- 🧙‍♂️ [Portfolio](https://madrimov.uz)  
+- 📧 [Email](mailto:madrimov5014@gmail.com)
+
+---
+
+## 🔮 2024 Side Quests (a.k.a. "Achievements Unlocked Soon")
+
+- ⚡ Learn full-stack, but never forget the front-end trenches
+- 🚗 Team up on big projects (bonus points if they're chaotic)
+- ⏳ Debug with grace, log like a legend, and mentor like a wizard
+
+---
+
+<div align="center">
+
+> *"In a world full of frameworks, be a script. In a sea of pixels, be a bit."*
 
 </div>
