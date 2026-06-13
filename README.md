@@ -1,168 +1,198 @@
 <div align="center">
-  
-# 👋 Hey, I'm **Xudish Madrimov**
 
-### ⚡ Terminal-Born, Vinyl-Era Code Wrangler
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madrimov)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://madrimov.uz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madrimov5014@gmail.com)
+```
+██╗  ██╗██╗   ██╗██████╗ ██╗███████╗██╗  ██╗
+╚██╗██╔╝██║   ██║██╔══██╗██║██╔════╝██║  ██║
+ ╚███╔╝ ██║   ██║██║  ██║██║███████╗███████║
+ ██╔██╗ ██║   ██║██║  ██║██║╚════██║██╔══██║
+██╔╝ ██╗╚██████╔╝██████╔╝██║███████║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝
+  ███╗   ███╗ █████╗ ██████╗ ██████╗ ██╗███╗   ███╗ ██████╗ ██╗   ██╗
+  ████╗ ████║██╔══██╗██╔══██╗██╔══██╗██║████╗ ████║██╔═══██╗██║   ██║
+  ██╔████╔██║███████║██║  ██║██████╔╝██║██╔████╔██║██║   ██║██║   ██║
+  ██║╚██╔╝██║██╔══██║██║  ██║██╔══██╗██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝
+  ██║ ╚═╝ ██║██║  ██║██████╔╝██║  ██║██║██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝
+  ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝   ╚═══╝
+```
 
-<img src="https://komarev.com/ghpvc/?username=madrimovDev&label=Profile%20views&color=0e75b6&style=flat" alt="madrimovDev" />
+```
+> Terminal-Born, Vinyl-Era Code Wrangler :: Fullstack Lead @ Gov Digitization
+> Uzbekistan [UZ] :: Less framework, more brainwork.
+```
+
+[![Portfolio](https://img.shields.io/badge/WWW-madrimov.uz-00ff00?style=flat-square&labelColor=000000&logo=firefoxbrowser&logoColor=00ff00)](https://madrimov.uz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in/madrimov-cccccc?style=flat-square&labelColor=000000&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/madrimov)
+[![Email](https://img.shields.io/badge/MAIL-madrimov5014-cccccc?style=flat-square&labelColor=000000&logo=gnometerminal&logoColor=ffffff)](mailto:madrimov5014@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=madrimovDev&label=VISITORS&color=00ff00&style=flat-square)
 
 </div>
 
----
+```
+═══════════════════════════════════════════════════════════════════════════════
+```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## 🚀 About Me
+## `~/whoami`
 
 ```typescript
 const madrimov = {
-    role: "Fullstack Lead Developer",
-    company: "Government Digitization Projects",
-    team: {
-        size: 7,
-        managing: ["3 Backend", "2 Frontend", "1 Designer", "1 PM"]
-    },
-    location: "Uzbekistan 🇺🇿",
-    currentProject: "MBOS Online - Universal Loyalty Platform",
-    experience: "2+ years",
-    philosophy: "Less framework, more brainwork",
-    interests: ["System Optimization", "Linux Gaming", "KDE Plasma"]
-};
+  alias:        "j0k3r",
+  role:         "Fullstack Lead Developer",
+  company:      "Government Digitization Projects",
+  team:         { size: 7, managing: ["3x Backend", "2x Frontend", "1x Designer", "1x PM"] },
+  location:     "Khorezm / Guliston, Uzbekistan 🇺🇿",
+  experience:   "2+ years in production trenches",
+  philosophy:   "Less framework, more brainwork",
+  currentlyOn:  ["MBOS Online", "M Smart School infra", "Monro Delivery"],
+  interests:    ["System Optimization", "Self-hosting", "Linux Gaming", "KDE Plasma"],
+} as const;
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### **Frontend** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madrimovDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madrimovDev&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrimovDev&theme=dracula" alt="madrimovDev" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 **MBOS Online**
-> Universal loyalty platform with status tiers and gamification
-- **Tech:** Node.js, React, PostgreSQL, Docker
-- **Features:** Multi-industry support, API partnerships, Wallet system
-- **Status:** In active development
-
-### 🔐 **SmartEntry Pro**
-> Access control and security management system
-- **Tech:** React Native, Node.js, PostgreSQL
-- **Features:** Real-time monitoring, Access logs, Multi-level permissions
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 45 mins  ████████████░░░░░░  65.3%
-React        4 hrs 20 mins   ██████░░░░░░░░░░░░  22.2%
-PostgreSQL   1 hr 30 mins    ████░░░░░░░░░░░░░░   7.7%
-Docker       45 mins         ██░░░░░░░░░░░░░░░░   3.8%
-Other        12 mins         █░░░░░░░░░░░░░░░░░   1.0%
 ```
-<!--END_SECTION:waka-->
+═══════════════════════════════════════════════════════════════════════════════
+```
 
-[![wakatime](https://wakatime.com/badge/user/madrimovDev.svg)](https://wakatime.com/@madrimovDev)
+## `~/stack --list`
 
----
+```
+┌─ FRONTEND ──────────────────────────────────────────────────────────────────┐
+│  React · Next.js · React Native · TypeScript · Tailwind CSS · Redux · Vite   │
+├─ BACKEND ───────────────────────────────────────────────────────────────────┤
+│  Node.js · Bun · Hono · Drizzle ORM · PostgreSQL · Python · REST/WS          │
+├─ DESKTOP ───────────────────────────────────────────────────────────────────┤
+│  Electron · electron-pos-printer · electron-store-typed · window-state       │
+├─ OPS / INFRA ───────────────────────────────────────────────────────────────┤
+│  Linux · Docker · Nginx · GitHub Actions · Git · self-hosted GPU boxes       │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-## 🌱 Currently Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=fbf0df)
+![Hono](https://img.shields.io/badge/Hono-000000?style=flat-square&logo=hono&logoColor=E36002)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=flat-square&logo=drizzle&logoColor=C5F74F)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffde57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Electron](https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=47848F)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=009639)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 
-- 🦀 **Rust** - For system programming and WASM
+```
+═══════════════════════════════════════════════════════════════════════════════
+```
 
----
+## `~/projects --featured`
 
-## 💡 Fun Facts
+```
+[##] MBOS ONLINE ............................................. [ACTIVE DEV]
+     Universal loyalty platform — status tiers, gamification, wallet.
+     > Multi-industry support · API partnerships · loyalty engine
+     > Node.js · React · PostgreSQL · Docker
+
+[##] M SMART SCHOOL .......................................... [PRODUCTION]
+     School management + ML/GPU services running on self-hosted infra.
+     > Pilot: 10-maktab, Guliston — 336 students live
+     > Python · Docker · GPU boxes · Postgres
+
+[##] MONRO DELIVERY .......................................... [ACTIVE DEV]
+     Full digitization of «Monro» cafe (Urganch): backend + admin + mobile API.
+     > Bun · Hono · Drizzle ORM · PostgreSQL · Linear-driven
+
+[##] ELECTRON TOOLKIT ........................................ [OPEN SOURCE]
+     Battle-tested Electron libraries pulled from real POS deployments.
+     > electron-pos-printer · electron-store-typed · electron-window-state
+
+[##] OCPP STATION ............................................ [R&D]
+     EV charging station management over the OCPP protocol.
+     > Protocol implementation · realtime telemetry
+```
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+## `~/oss --packages`
+
+```
+$ npm i electron-pos-printer    # thermal/ESC-POS receipt printing for Electron
+$ npm i electron-store-typed     # type-safe persistent storage, full TS generics
+$ npm i electron-window-state    # save/restore window bounds, multi-monitor safe
+```
+
+> 📖 Docs: **electron-toolkit** · Plus open datasets like **UZ_REGIONS** (Uzbekistan regions) for the community.
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+## `~/stats --no-color`
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=madrimovDev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=cccccc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrimovDev&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=cccccc)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=madrimovDev&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=cccccc&dates=666666)
+
+</div>
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+## `~/dmesg --fun`
 
 ```javascript
 const funFacts = [
-  "🖥️ Started coding when floppy disks were still cool",
-  "☕ Coffee consumed: 404 cups not found",
-  "⌨️ Mechanical keyboard enthusiast (Cherry MX Blue gang)",
-  "🐧 Linux user (KDE Plasma on laptop with RTX 3050)",
-  "🎮 Gaming setup: i5 13th gen + RTX 3050",
-  "📚 Teaching experience before jumping into IT",
-  "🏃‍♂️ Survived 48-hour government project coding marathons"
+  "[ 0.000000] Started coding when floppy disks were still cool",
+  "[ 0.404000] Coffee consumed: 404 cups not found",
+  "[ 0.808080] Mechanical keyboard enthusiast — Cherry MX Blue gang",
+  "[ 1.000000] Daily driver: KDE Plasma on Linux (i5 13th gen + RTX 3050)",
+  "[ 1.337000] Linux gamer — Lutris, GOG and a stubborn devotion to native builds",
+  "[ 2.000000] Taught before jumping into IT",
+  "[ 4.800000] Survived 48-hour government project coding marathons",
 ];
-
 console.log(funFacts[Math.floor(Math.random() * funFacts.length)]);
 ```
 
----
+```
+═══════════════════════════════════════════════════════════════════════════════
+```
 
-## 📫 Let's Connect!
+## `~/contact`
 
 <div align="center">
 
-**Open for collaboration on interesting projects!**
-
 ```
-📧 madrimov5014[at]gmail[dot]com
-💼 linkedin.com/in/madrimov
-🌐 madrimov.uz
+┌──────────────────────────────────────────────────────────┐
+│  $ ssh madrimov@uz                                         │
+│  > mail ... madrimov5014[at]gmail[dot]com                  │
+│  > www .... https://madrimov.uz                            │
+│  > in ..... linkedin.com/in/madrimov                       │
+│  > ask .... React · Bun · System Architecture · Team Lead  │
+│             Database Optimization · Self-hosting · Infra   │
+└──────────────────────────────────────────────────────────┘
 ```
 
-### 💬 Ask me about
-`React` `Node.js` `System Architecture` `Team Leadership` `Database Optimization`
+**Open for collaboration on interesting projects.**
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madrimovDev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="madrimovDev" />
-</div>
-
----
+```
+═══════════════════════════════════════════════════════════════════════════════
+```
 
 <div align="center">
-  
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=madrimovDev&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-**"In a world full of frameworks, be a script. In a sea of pixels, be a bit."**
+```
+"In a world full of frameworks, be a script. In a sea of pixels, be a bit."
+```
 
-*Last updated: November 2025*
+`EOF :: last updated 2026-06`
 
 </div>
