@@ -42,7 +42,7 @@ const madrimov = {
   location:     "Khorezm / Guliston, Uzbekistan 🇺🇿",
   experience:   "2+ years in production trenches",
   philosophy:   "Less framework, more brainwork",
-  currentlyOn:  ["MBOS Online", "M Smart School infra", "Monro Delivery"],
+  currentlyOn:  ["M Smart School infra", "Monro Delivery", "Dental Service"],
   interests:    ["System Optimization", "Self-hosting", "Linux Gaming", "KDE Plasma"],
 } as const;
 ```
@@ -87,23 +87,26 @@ const madrimov = {
 ## `~/projects --featured`
 
 ```
-[##] MBOS ONLINE ............................................. [ACTIVE DEV]
-     Universal loyalty platform — status tiers, gamification, wallet.
-     > Multi-industry support · API partnerships · loyalty engine
-     > Node.js · React · PostgreSQL · Docker
-
 [##] M SMART SCHOOL .......................................... [PRODUCTION]
-     School management + ML/GPU services running on self-hosted infra.
+     School management platform + ML/GPU services on self-hosted infra.
      > Pilot: 10-maktab, Guliston — 336 students live
-     > Python · Docker · GPU boxes · Postgres
+     > Python · Docker · self-hosted GPU · PostgreSQL
 
 [##] MONRO DELIVERY .......................................... [ACTIVE DEV]
      Full digitization of «Monro» cafe (Urganch): backend + admin + mobile API.
      > Bun · Hono · Drizzle ORM · PostgreSQL · Linear-driven
 
+[##] DENTAL SERVICE .......................................... [ACTIVE DEV]
+     Clinic management system — patients, appointments, billing.
+     > TypeScript · React · PostgreSQL (PL/pgSQL)
+
 [##] ELECTRON TOOLKIT ........................................ [OPEN SOURCE]
      Battle-tested Electron libraries pulled from real POS deployments.
      > electron-pos-printer · electron-store-typed · electron-window-state
+
+[##] TRAVELKHIVA ............................................. [LIVE]
+     Tourism web app for Khiva. → travelkhiva.vercel.app
+     > Next.js · TypeScript · Tailwind
 
 [##] OCPP STATION ............................................ [R&D]
      EV charging station management over the OCPP protocol.
@@ -128,14 +131,33 @@ $ npm i electron-window-state    # save/restore window bounds, multi-monitor saf
 ═══════════════════════════════════════════════════════════════════════════════
 ```
 
-## `~/stats --no-color`
+## `~/stats --all --include-private`
+
+```
+┌─ $ git log --author="madrimov" --all | wc -l ──────────────────────────────┐
+│                                                                             │
+│   TOTAL COMMITS ......... 4,400+        REPOSITORIES ......... 21           │
+│   MOST ACTIVE YEAR ...... 2025 (2.1k)   PUBLIC PROJECTS ...... 13           │
+│   PULL REQUESTS ......... 8             FOLLOWERS ............ 28           │
+│   PRIMARY LANGUAGE ...... TypeScript    CODING SINCE ......... 2020         │
+│                                                                             │
+├─ commits per year ─────────────────────────────────────────────────────────┤
+│                                                                             │
+│   2022  │ 12     ▏                                                          │
+│   2023  │ 167    █▌                                                         │
+│   2024  │ 891    ████████▏                                                  │
+│   2025  │ 2187   █████████████████████                                      │
+│   2026  │ 1212   ███████████▋          ░ year-to-date                       │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+> `note:` most of the work lives in **private** government & client repos, so the
+> public contribution graph only shows the tip of the iceberg.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=madrimovDev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=cccccc)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrimovDev&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=cccccc)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=madrimovDev&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=cccccc&dates=666666)
 
 </div>
 
